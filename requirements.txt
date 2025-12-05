@@ -6,3 +6,4 @@ pyproj
 fiona
 Werkzeug
 gunicorn
+openpyxl
